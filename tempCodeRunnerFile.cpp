@@ -1,0 +1,1 @@
+thread t2(addMoney);
